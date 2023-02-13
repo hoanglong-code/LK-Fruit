@@ -1,0 +1,737 @@
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nhoi\source\repos\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nkien\Downloads\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nhoi\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Compressed\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\nkien\Downloads\9,5Điểm\9,5Điểm\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\nhoi\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\ADMIN\Downloads\Compressed\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll.config
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\fruitkha-main.pdb
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.dll
+C:\Users\ADMIN\Downloads\Compressed\.NET CORE MVC\MVC\Projectfruitkha\Projectfruitkha\fruitkha-main\fruitkha-main\fruitkha-main\obj\Debug\fruitkha-main.pdb

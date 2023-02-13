@@ -1,0 +1,120 @@
+﻿@model IEnumerable<fruitkha_main.Models.product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div class="col-lg-6" style="margin-left:248px;margin-top:-30px">
+    <div class="card" style="width:1100px">
+        <p style="margin-left:990px;margin-top:20px">
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <form action="">
+            <input type="text">
+        </form>
+        <div class="card-body">
+            <div class="card-title">
+                <h4>Table Images</h4>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.avatar)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.origin)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.detail)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.sale)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.category.name)
+                        </th>
+                        <th>
+
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.name)
+                            </td>
+                            <td>
+                                <img src="~/Areas/Asset/FileUpload/@Html.DisplayFor(modelItem => item.avatar)" style="height:60px;" />
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.origin)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.detail)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.sale)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.category.name)
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+                <div class="btn-group">
+                    @if (ViewBag.page > 1)
+                    {
+                        <a class="btn btn-gradient" href="~/Admin/products?page=(@ViewBag.page-1)">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    }
+                    @foreach (var item in ViewBag.list_page)
+                    {
+                        if (item == "...")
+                        {
+                            <a class="btn btn-gradient" onclick="return void();" href="#">
+                                @item
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-gradient" href="~/Admin/products?page=@item">
+                                @item
+                            </a>
+
+                        }
+                    }
+                    @if (ViewBag.page < ViewBag.totalPage)
+                    {
+                        <a class="btn btn-gradient" href="~/Admin/products?page=(@ViewBag.page+1)">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

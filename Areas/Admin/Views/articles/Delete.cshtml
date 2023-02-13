@@ -1,0 +1,76 @@
+﻿@model fruitkha_main.Models.article
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3 style="margin-left: 300px">Are you sure you want to delete this?</h3>
+<div>
+    <h4 style="margin-left: 300px">article</h4>
+    <hr />
+    <dl class="dl-horizontal" style="width:1000px;margin-left:300px;background-color:white;padding:20px;border-radius:20px">
+        <dt>
+            @Html.DisplayNameFor(model => model.avatar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.avatar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.create_day)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.create_day)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.articles_content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.articles_content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.category.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category.name)
+        </dd>
+
+    </dl>   
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+        
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" style="margin-left:300px;margin-top:20px"/> |
+                <p class="btn btn-default" style="margin-left: 300px; margin-top: 37px">
+                    @Html.ActionLink("Back to List", "Index")
+                </p>
+            </div>
+        }
+</div>
+

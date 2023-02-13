@@ -1,0 +1,664 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/User/Views/Shared/Layout.cshtml";
+}
+<style>
+    *,
+    *:after,
+    *:before {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .clearfix:before,
+    .clearfix:after {
+        content: " ";
+        display: table;
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+    body {
+        font-family: sans-serif;
+        background: #f6f9fa;
+    }
+
+    h1 {
+        color: #ccc;
+        text-align: center;
+    }
+
+    h4.payment-title {
+        text-align: left;
+        padding: 10px 0px 30px 30px;
+        font-weight: 500;
+        color: #5e6977;
+    }
+
+    a {
+        color: #ccc;
+        text-decoration: none;
+        outline: none;
+    }
+
+    .tab_container {
+        width: 550px;
+        margin: 50px auto;
+        position: relative;
+        border: 1px solid #eee;
+        border-radius: 7px;
+        background: #fff;
+    }
+
+    input, section {
+        clear: both;
+        padding-top: 10px;
+        display: none;
+    }
+
+    label {
+        font-weight: 700;
+        font-size: 14px;
+        display: block;
+        float: left;
+        padding: 20px 14px;
+        color: #ccc;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        background: #fff;
+        margin-bottom: 2px;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+        border-bottom: 2px solid #eee;
+    }
+
+    #tab1:checked ~ #content1,
+    #tab2:checked ~ #content2,
+    #tab3:checked ~ #content3,
+    #tab4:checked ~ #content4 {
+        display: block;
+        padding: 20px 0 0 0;
+        color: #999;
+    }
+
+    .tab_container .tab-content h3 {
+        text-align: center;
+    }
+
+    .tab_container [id^="tab"]:checked + label {
+        background: #fff;
+        border-bottom: 2px solid #358ed7;
+        color: #358ed7;
+    }
+
+        .tab_container [id^="tab"]:checked + label > span.numberCircle {
+            border: 2px solid #358ed7;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            padding: 3px 5px;
+            text-align: center;
+            font-size: 10px;
+            margin: 3px 8px
+        }
+
+    label:hover {
+        background-color: #eee;
+        border-radius: 0px;
+    }
+
+    .numberCircle {
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        padding: 3px 5px;
+        border: 2px solid #ccc;
+        text-align: center;
+        font-size: 10px;
+        margin: 3px 8px
+    }
+
+
+    .row-payment-method {
+        margin: 0px 0px 0px 0px;
+        padding: 22px 0px 11px 0px;
+        text-align: left;
+        display: table;
+    }
+
+    .payment-row {
+        background-color: #f5f6fa;
+        padding-left: 30px;
+        padding-right: 30px;
+        width: 100%;
+    }
+
+    .payment-row-last {
+        margin-left: 30px;
+        margin-right: 30px;
+        width: 100%;
+    }
+
+    .payment-padding-right {
+    }
+
+    .select-icon {
+        display: table-cell;
+        vertical-align: top;
+        text-align: left;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .select-txt {
+        display: table-cell;
+        vertical-align: middle;
+        word-wrap: break-word;
+        height: 60px;
+        text-align: left;
+        padding-left: 15px;
+        font-size: 12pt;
+    }
+
+    .select-logo {
+        padding-right: 0px;
+        vertical-align: top;
+        right: 35px;
+        position: absolute;
+    }
+
+    .select-logo-sub {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .logo-spacer {
+        padding-right: 13px;
+    }
+
+    .pymt-type-name {
+        font-weight: 500;
+        font-size: 12pt;
+        padding-bottom: 8px;
+        color: #5a6977;
+    }
+
+    .pymt-type-desc {
+        padding-bottom: 22px;
+        width: 70%;
+        font-size: 14px;
+    }
+
+    .hr {
+        border-bottom: 1px solid #ebf0f5;
+        padding-bottom: 5px;
+    }
+
+    .form-cc {
+        display: table;
+        width: 100%;
+        text-align: left;
+        padding: 0px 0px 30px 30px;
+    }
+
+    .row-cc {
+        display: table;
+        width: 100%;
+        padding-bottom: 7px;
+    }
+
+    .cc-txt {
+        border-color: #e1e8ee;
+        width: 100%;
+    }
+
+    .input {
+        border-radius: 5px;
+        border-style: solid;
+        border-width: 2px;
+        height: 38px;
+        padding-left: 15px;
+        font-weight: 600;
+        font-size: 11pt;
+        color: #5e6977;
+    }
+
+    input[type="text"] {
+        display: initial;
+        padding: 15px
+    }
+
+    .text-validated {
+        border-color: #7DC855;
+        background-image: url("https://www.dropbox.com/s/1mve74fafiwsae1/icon-tick.png?raw=1");
+        background-repeat: no-repeat;
+        background-position: right 18px center;
+    }
+
+    .cc-ddl {
+        border-color: #f0f4f7;
+        background-color: #f0f4f7;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    .cc-title {
+        font-size: 10.5pt;
+        padding-bottom: 8px;
+    }
+
+    .cc-field {
+        padding-top: 15px;
+        padding-right: 30px;
+        display: table-cell;
+    }
+
+    .button-master-container, .button-master-container:hover {
+        display: table;
+        width: 100%;
+        border-top: 1px solid #e1e8ee;
+        height: 60px;
+        vertical-align: bottom;
+    }
+
+    .button-container {
+        width: 50%;
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    a, a:hover {
+        color: inherit;
+        text-decoration: inherit;
+    }
+
+    .button-container:hover {
+        background-color: #eee;
+        cursor: pointer;
+    }
+
+    .button-finish {
+        border-left: 1px solid #e1e8ee;
+        color: #7DC855;
+        font-weight: 500;
+        font-size: 12pt;
+        background-image: url("https://www.dropbox.com/s/10d95otbo48r0hh/icon-next.png?raw=1");
+        background-repeat: no-repeat;
+        background-position: right 50px center;
+    }
+
+    .cvv-tooltip-img {
+        display: inline-block;
+        vertical-align: middle;
+        padding-left: 17px;
+    }
+
+    input[id^="radio"] {
+        display: none;
+    }
+
+        input[id^="radio"] + label {
+            background-image: url("https://www.dropbox.com/s/mnwbybfl4pnzoi4/radio-inactive.png?raw=1");
+            height: 26px;
+            width: 24px;
+            display: inline-block;
+            padding: 0 0 0 0px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+
+        input[id^="radio"]:checked + label {
+            background-image: url("https://www.dropbox.com/s/8634yi8i1s7fx7w/radio-active.png?raw=1");
+            height: 26px;
+            width: 24px;
+            display: inline-block;
+            padding: 0 0 0 0px;
+            cursor: pointer;
+        }
+
+    p.credit {
+        text-align: center;
+        color: #ccc;
+    }
+
+</style>
+<div class="search-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <span class="close-btn"><i class="fas fa-window-close"></i></span>
+                <div class="search-bar">
+                    <div class="search-bar-tablecell">
+                        <h3>Search For:</h3>
+                        <input type="text" placeholder="Keywords">
+                        <button type="submit">Search <i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end search arewa -->
+<!-- breadcrumb-section -->
+<div class="breadcrumb-section breadcrumb-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="breadcrumb-text">
+                    <p>Fresh and Organic</p>
+                    <h1>Check Out Product</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end breadcrumb section -->
+<!-- check out section -->
+<div class="checkout-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="checkout-accordion-wrap">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Billing Address
+                                    </button>
+                                </h5>
+                            </div>                           
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="billing-address-form">
+                                        <form action="/User/Index/Index">
+                                            <p><input type="text" placeholder="Name"></p>
+                                            <p><input type="email" placeholder="Email"></p>
+                                            <p><input type="text" placeholder="Address"></p>
+                                            <p><input type="tel" placeholder="Phone"></p>
+                                            <p><textarea name="bill" id="bill" cols="30" rows="10" placeholder="Say Something"></textarea></p>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Shipping Address
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="shipping-address-form">
+                                        <p>Your shipping address form is here.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Card Details
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="card-details">
+                                        <p>Your card details goes here.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab_container">
+                                <input id="tab1" type="radio" name="tabs">
+                                <label for="tab1"><span class="numberCircle">1</span><span>Cart</span></label>
+
+                                <input id="tab2" type="radio" name="tabs">
+                                <label for="tab2"><span class="numberCircle">2</span><span>Customer Information</span></label>
+
+                                <input id="tab3" type="radio" name="tabs">
+                                <label for="tab3"><span class="numberCircle">3</span><span>Shipping</span></label>
+
+                                <input id="tab4" type="radio" name="tabs" checked>
+                                <label for="tab4"><span class="numberCircle">4</span><span>Payment</span></label>
+
+
+                                <section id="content1" class="tab-content">
+                                    <h3>Cart Items</h3>
+                                    <p></p>
+                                </section>
+
+                                <section id="content2" class="tab-content">
+                                    <h3>Customer Information</h3>
+                                    <p></p>
+                                </section>
+
+                                <section id="content3" class="tab-content">
+                                    <h3>Shipping</h3>
+                                    <p></p>
+                                </section>
+
+                                <section id="content4" class="tab-content">
+                                    <h4 class="payment-title">Choose your payment method</h4>
+                                    <form action="" method="post">
+                                        <div class="pymt-radio">
+
+
+                                            <div class="row-payment-method payment-row">
+                                                <div class="select-icon">
+                                                    <input type="radio" id="radio1" name="radios" value="pp">
+                                                    <label for="radio1"></label>
+                                                </div>
+                                                <div class="select-txt">
+                                                    <p class="pymt-type-name">Paypal</p>
+                                                    <p class="pymt-type-desc">Safe payment online. Credit card needed. PayPal account is not necessary.</p>
+                                                </div>
+                                                <div class="select-logo">
+                                                    <img src="https://www.dropbox.com/s/pycofx0gngss4ef/logo-paypal.png?raw=1" alt="PayPal" />
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                        <div class="pymt-radio">
+
+                                            <div class="row-payment-method payment-row-last">
+                                                <div class="select-icon hr">
+                                                    <input type="radio" id="radio2" name="radios" value="pp" checked>
+                                                    <label for="radio2"></label>
+                                                </div>
+                                                <div class="select-txt hr">
+                                                    <p class="pymt-type-name">Credit Card</p>
+                                                    <p class="pymt-type-desc">Safe money transfer using your bank account. Safe payment online. Credit card needed. Visa, Maestro, Discover, American Express</p>
+                                                </div>
+                                                <div class="select-logo">
+                                                    <div class="select-logo-sub logo-spacer">
+                                                        <img src="https://www.dropbox.com/s/by52qpmkmcro92l/logo-visa.png?raw=1" alt="Visa" />
+                                                    </div>
+                                                    <div class="select-logo-sub">
+                                                        <img src="https://www.dropbox.com/s/6f5dorw54xomw7p/logo-mastercard.png?raw=1" alt="MasterCard" />
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="form-cc">
+                                            <div class="row-cc">
+                                                <div class="cc-field">
+                                                    <div class="cc-title">
+                                                        Credit Card Number
+                                                    </div>
+                                                    <input type="text" class="input cc-txt text-validated" value="4542 9931 9292 2293" />
+                                                </div>
+                                            </div>
+                                            <div class="row-cc">
+                                                <div class="cc-field">
+                                                    <div class="cc-title">
+                                                        Expiry Date
+                                                    </div>
+                                                    <select class="input cc-ddl">
+                                                        <option selected>01</option>
+                                                        <option>02</option>
+                                                        <option>03</option>
+                                                        <option>04</option>
+                                                        <option>05</option>
+                                                        <option>06</option>
+                                                        <option>07</option>
+                                                        <option>08</option>
+                                                        <option>09</option>
+                                                        <option>10</option>
+                                                        <option>11</option>
+                                                        <option>12</option>
+                                                    </select>
+                                                    <select class="input cc-ddl">
+                                                        <option>01</option>
+                                                        <option>02</option>
+                                                        <option>03</option>
+                                                        <option>04</option>
+                                                        <option>05</option>
+                                                        <option>06</option>
+                                                        <option>07</option>
+                                                        <option>08</option>
+                                                        <option>09</option>
+                                                        <option>10</option>
+                                                        <option>11</option>
+                                                        <option>12</option>
+                                                        <option>13</option>
+                                                        <option>14</option>
+                                                        <option>15</option>
+                                                        <option selected>16</option>
+                                                        <option>17</option>
+                                                        <option>18</option>
+                                                        <option>19</option>
+                                                        <option>20</option>
+                                                        <option>21</option>
+                                                        <option>22</option>
+                                                        <option>23</option>
+                                                        <option>24</option>
+                                                        <option>25</option>
+                                                        <option>26</option>
+                                                        <option>27</option>
+                                                        <option>28</option>
+                                                        <option>29</option>
+                                                        <option>30</option>
+                                                        <option>31</option>
+                                                    </select>
+                                                </div>
+                                                <div class="cc-field">
+                                                    <div class="cc-title">
+                                                        CVV Code<span class="numberCircle">?</span>
+                                                    </div>
+                                                    <input type="text" class="input cc-txt" />
+                                                </div>
+                                            </div>
+                                            <div class="row-cc">
+                                                <div class="cc-field">
+                                                    <div class="cc-title">
+                                                        Name on Card
+                                                    </div>
+                                                    <input type="text" class="input cc-txt" />
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="button-master-container">
+                                            <div class="button-container">
+                                                <a href="#">Return to Shipping</a>
+                                            </div>
+                                            <div class="button-container button-finish">
+                                                <a href="#">Finish Order</a>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="order-details-wrap">
+                    <table class="order-details" id="cart">
+                        <div hidden>
+                            @Session["price"] = TinhGiaThanh();
+                            @ViewBag.price = TinhGiaThanh();
+                            @Session["qty"] = TinhSoLuong();
+                            @ViewBag.qty = TinhSoLuong();
+                            @ViewBag.total = TinhTongTien();
+                        </div>                       
+                        <thead>
+                            <tr>
+                                <th>Your order Details</th>
+                                <th>Price</th>
+                            </tr>                           
+                        </thead>
+                            <tbody class="order-details-body">
+                                @foreach (var item in Model)
+                                {                                  
+                                    <tr>                                       
+                                         <td>@item.name</td>
+                                         <td>@item.price</td>                                       
+                                    </tr>
+                                }
+                                </tbody>
+                            <tbody class="checkout-details">
+                                <tr>
+                                    <td>Quanlity</td>
+                                    <td>@ViewBag.qty</td>
+                                </tr>
+                                <tr>
+                                    <td>Total</td>
+                                    <td>@ViewBag.total</td>
+                                </tr>
+                            </tbody>                      
+                    </table>
+                    <a href="#" class="boxed-btn">Place Order</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end check out section -->
+<!-- logo carousel -->
+<div class="logo-carousel-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="logo-carousel-inner">
+                    <div class="single-logo-item">
+                        <img src="~/Areas/User/assets/img/company-logos/1.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/Areas/User/assets/img/company-logos/2.png" alt="">
+                    </div>
+                    <div class="~/Areas/User/single-logo-item">
+                        <img src="~/Areas/User/assets/img/company-logos/3.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/Areas/User/assets/img/company-logos/4.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/Areas/User/assets/img/company-logos/5.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end logo carousel -->

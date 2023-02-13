@@ -1,0 +1,42 @@
+﻿@model fruitkha_main.Models.admin
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>admin</h4>
+    <hr />
+    <dl class="dl-horizontal" style="width:1000px;margin-left:300px;background-color:white;padding:20px;border-radius:20px">
+        <dt>
+            @Html.DisplayNameFor(model => model.avatar)
+        </dt>
+
+        <dd>
+            <img src="~/Areas/Asset/FileUpload/@Html.DisplayFor(model => model.avatar)" style="height:60px;" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.password)
+        </dd>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+    </dl>
+</div>

@@ -1,0 +1,76 @@
+﻿@model IEnumerable<fruitkha_main.Models.article>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div class="col-lg-6" style="margin-left:248px;margin-top:-30px">
+    <div class="card" style="width:1100px;">
+        <p style="margin-left:990px;margin-top:20px">
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <div class="card-body">
+            <div class="card-title">
+                <h4>Table Images</h4>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.avatar)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.title)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.author)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.create_day)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.articles_content)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.category.name)
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img src="~/Areas/Asset/FileUpload/@Html.DisplayFor(modelItem => item.avatar)" style="height:60px;" />
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.author)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.create_day)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.articles_content)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.category.name)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
